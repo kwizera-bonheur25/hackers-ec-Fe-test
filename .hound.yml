@@ -1,0 +1,8 @@
+eslint:
+  enabled: true
+  file_patterns:
+    - '**/*.{js,jsx,ts,tsx}'
+  enabled_plugins:
+    - eslint-plugin-react
+    - eslint-plugin-prettier
+    - eslint-plugin:@typescript-eslint
